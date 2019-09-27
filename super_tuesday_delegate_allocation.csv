@@ -1,0 +1,42 @@
+state,primary_type,primary_or_caucus,delegate_binding,num_congressional_districts,total_delegates,num_district_delegates,total_pledged_delegates,num_pleo_delegates,num_at_large_delegates,mandatory_threshold,allocation_rules
+Alabama,open,primary,proportional,7,52,34,18,7,11,15%,"34 district delegates are to be allocated proportionally to presidential contenders based on the primary results in each of the State's congressional districts.
+18 delegates are to be allocated to presidential contenders based on the primary vote statewide."
+Alaska,closed,primary,proportional,1,14,9,5,2,3,15%,"9 National Convention District delegates are pledged to presidential contenders in proportion to the percentage of support each candidate receives in the party-run primary as a whole. Alaska has one Congressional District. A mandatory 15 percent threshold is required for such allocations.
+5 National Convention statewide delegates are pledged to presidential contenders in proportion to the percentage of support each candidate receives in the party-run primary as a whole. A mandatory 15 percent threshold is required for such allocations."
+American Samoa,open,caucus,proportional,0,6,0,6,0,6,15%,6 delegates are to be pledged to presidential contenders based on the Territorial Caucus vote island-wide.
+Arkansas,open,primary,proportional,4,31,20,11,4,7,15%,"20 district delegates are to be allocated proportionally to presidential contenders based on the primary results in each of the State's 4 congressional districts.
+                              11 delegates are to be allocated to presidential contenders based on the primary vote statewide."
+California,modified,primary,proportional,53,416,272,144,54,90,15%,"272 district delegates are to be pledged 
+                            proportionally to presidential contenders 
+                            based on the primary results in each of the 
+                            State's 53 congressional districts. 
+                            Remaining 144 delegates are to be pledged to 
+                            presidential contenders based on the primary 
+                            vote statewide."
+Colorado,modified,primary,proportional,7,67,44,23,9,14,15%,"44 district delegates are to be pledged proportionally to presidential contenders based on the primary results in each of the State's 7 congressional districts.
+                              23 delegates are to be pledged to presidential contenders based on the primary vote statewide."
+Democrats Abroad,open,caucus,proportional,0,13,0,13,1,12,15%,13  delegates are to be allocated to presidential contenders based on the global primary vote as a whole.
+Maine,closed,primary,proportional,2,24,16,8,3,5,15%,"16 district delegates are to be allocated proportionally based on the presidential preferences expressed in each of the State's 2 congressional districts.
+                              8 delegates are to be allocated to presidential contenders based the support for the presidential contenders in the state as a whole."
+Massachusetts,modified,primary,proportional,9,91,59,32,12,20,15%,"59 district delegates are to be allocated proportionally to presidential contenders based on the primary results in each of the State's 9 congressional districts.
+32 delegates are to be allocated to presidential contenders based on the primary vote statewide."
+Minnesota,closed,primary,proportional,8,75,49,26,10,16,15%,"49 district delegates are to be pledged proportionally to presidential contenders based on the results from the primary in each of the State's 8 congressional districts.
+In addition, 26 delegates are to be pledged to presidential contenders based statewide results of the primary."
+North Carolina,modified,primary,proportional,13,110,72,38,14,24,15%,"72 district delegates are to be pledged proportionally to presidential contenders based on the primary results in each of the State's 13 congressional districts.
+In addition, 38 delegates are to be allocated to presidential contenders based on the primary vote statewide."
+Oklahoma,modified,primary,proportional,2,91,59,32,12,20,15%,"59 district delegates are to be allocated proportionally to presidential contenders based on the primary results in each of the State's 9 congressional districts.
+32 delegates are to be allocated to presidential contenders based on the primary vote statewide."
+Tennessee,open,primary,proportional,9,64,42,22,8,14,15%,"42 district delegates are to be pledged proportionally to presidential contenders based on the primary results in each of the State's congressional districts.
+In addition, 22 delegates are to be pledged to presidential contenders based on the primary vote statewide."
+Texas,closed,primary,proportional,31,228,149,79,30,49,15%,"149 district delegates are to be pledged proportionally to presidential contenders based on the primary results 
+                               in each of the State's 31 Senatorial Districts. Texas has 149 district delegates apportioned
+                               among its 31 STATE SENATORIAL DISTRICTS [unlike most states- as well as the Texas Republican Party-
+                               Texas Democrats are NOT using the state's Congressional Districts as a basis of
+                               National Convention delegate allocation] as follows: (SD= ""Senatorial District"")].
+                               79 delegates are to be pledged to presidential contenders based on the primary vote statewide."
+Utah,closed,primary,proportional,4,29,19,10,4,6,15%,"19 district delegates are to be allocated proportionally to presidential contenders based on the primary results in each of the State's 4 congressional districts.
+10 delegates are to be allocated to presidential contenders based on the primary vote statewide."
+Vermont,open,primary,proportional,1,16,11,5,2,3,15%,"11 district delegates are to be pledged proportionally to presidential contenders based on the statewide primary results as Vermont has only one Congressional District.
+In addition, 5 delegates are to be pledged to presidential contenders based on the primary vote statewide."
+Virginia,open,primary,proportional,11,99,65,34,13,21,15%,"65 district delegates are to be allocated proportionally to presidential contenders based on the primary results in each of the State's 11 congressional districts.
+34 delegates are to be pledged to presidential contenders based on the primary results statewide."
